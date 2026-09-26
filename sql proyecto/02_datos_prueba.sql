@@ -1,10 +1,5 @@
 -- Entrega 1 BASICA - Dataset sintetico con solo INSERT (Modificadores)
 -- Requiere haber ejecutado sql/01_ddl.sql.
--- Solo usa INSERT INTO ... VALUES (tema 7-Modificadores).
--- NO usa PL/SQL, ni bucles, ni INSERT ALL, ni SELECT FROM dual.
--- Dataset pequeno pero suficiente para las 15 consultas:
---   2 ediciones, 5 estadios, 10 selecciones, 8 partidos, 16 participaciones.
--- Todos los datos son ficticios.
 
 SET DEFINE OFF;
 
