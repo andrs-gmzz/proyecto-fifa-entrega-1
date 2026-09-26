@@ -1,4 +1,4 @@
--- Entrega 1 BASICA - Dataset sintetico con solo INSERT (Modificadores)
+-- Entrega 1 BASICA - Dataset sintetico 
 -- Requiere haber ejecutado sql/01_ddl.sql.
 
 SET DEFINE OFF;
