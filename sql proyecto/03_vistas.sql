@@ -1,6 +1,4 @@
 -- Entrega 1 BASICA - Vistas analiticas
--- Solo usa SELECT, JOINS, GROUP BY, CASE, agregados y una vista sobre otra.
--- NO usa WITH, ni funciones de ventana, ni PL/SQL.
 -- Requiere sql/01_ddl.sql y sql/02_datos_prueba.sql.
 
 SET DEFINE OFF;
