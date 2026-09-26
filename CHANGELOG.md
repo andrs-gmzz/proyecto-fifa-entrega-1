@@ -31,7 +31,7 @@ commits, ramas o pull requests visibles en GitHub.
 - **Evidencia:** `docs/documento_tecnico.md`, `docs/algebra_relacional.md` y
   `docs/matriz_rubrica.md`.
 
-## [2026-09-] — Semana 3: DDL e integridad
+## [2026-09-16] — Semana 3: DDL e integridad
 
 - **Objetivo:** ejecutar el DDL en el esquema del curso y validar restricciones.
 - **Tareas:** probar PK, FK, `CHECK`, `UNIQUE`, triggers e índices.
@@ -39,13 +39,14 @@ commits, ramas o pull requests visibles en GitHub.
 - **Rama:** `feature/ddl-restricciones`.
 - **Dificultades:** registrar aquí los errores de ejecución y su solución.
 
-## [Pendiente] — Semana 4: datos y vistas
+## [2026-09-18] — Semana 4: datos y vistas
 
 - **Objetivo:** cargar el dataset sintético y verificar las cinco vistas.
 - **Tareas:** contar registros, comprobar coherencia referencial y documentar resultados.
 - **Responsable:** Andrés Gómez.
 - **Rama:** `feature/datos-vistas`.
 - **Dificultades:** registrar aquí inconsistencias o ajustes realizados.
+- **Evidencia: `sql/02_datos_prueba.sql`, `sql/03_vistas.sql`.
 
 ## [Pendiente] — Semana 5: consultas SQL
 
