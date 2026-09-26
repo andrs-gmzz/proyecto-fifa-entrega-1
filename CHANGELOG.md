@@ -3,7 +3,7 @@
 Registro semanal del avance verificable del proyecto. Cada entrada debe acompañarse de
 commits, ramas o pull requests visibles en GitHub.
 
-## [2026-08-30] — Semana 1: planificación e inicio
+## [2026-09-13] — Semana 1: planificación e inicio
 
 - **Objetivo:** comprender la rúbrica, delimitar la Entrega 1 al modelo inicial y
   publicar la base del repositorio.
@@ -17,9 +17,9 @@ commits, ramas o pull requests visibles en GitHub.
 - **Rama:** `main` (preparación inicial).
 - **Dificultades:** todavía falta ejecutar la entrega en el servidor y completar los
   datos de conexión entregados por el curso.
-- **Evidencia inicial:** `.gitignore`, `README.md` y `CHANGELOG.md`.
+- **Evidencia inicial:** `README.md` y `CHANGELOG.md`.
 
-## [2026-09-06] — Semana 2: modelo y documentación
+## [2026-09-15] — Semana 2: modelo y documentación
 
 - **Objetivo:** documentar el modelo inicial y su evolución futura.
 - **Tareas:** cerrar el ERD, los supuestos, la transformación al modelo lógico, el
@@ -31,7 +31,7 @@ commits, ramas o pull requests visibles en GitHub.
 - **Evidencia:** `docs/documento_tecnico.md`, `docs/algebra_relacional.md` y
   `docs/matriz_rubrica.md`.
 
-## [Pendiente] — Semana 3: DDL e integridad
+## [2026-09-] — Semana 3: DDL e integridad
 
 - **Objetivo:** ejecutar el DDL en el esquema del curso y validar restricciones.
 - **Tareas:** probar PK, FK, `CHECK`, `UNIQUE`, triggers e índices.
