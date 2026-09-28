@@ -114,5 +114,5 @@ commits, ramas o pull requests visibles en GitHub.
 - Auditor/Consulta, con privilegios diferenciados (8.2.3). Ejecución de casos de prueba exitosos (escenarios
 - válidos) y casos de prueba fallidos (violaciones de reglas), documentando resultados (8.2.4).
 - **Responsable:** Andrés Gómez.
-- **Rama:** `feature/roles-privilegios`.
+- **Rama:** `feature/roles-privilegios 2`.
 - **Dificultades:** ?.
