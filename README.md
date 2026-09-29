@@ -152,6 +152,4 @@ git push -u origin main
 | 7 | Revisión y sustentación (Entrega 1) | Ejecutar todo en el servidor, capturar evidencias, integrar ramas a `main` y sustentar de forma individual | Andrés Gómez | `sql/07_verificacion.sql`, capturas de resultados |
 | 8 | Expansión del modelo (Entrega 2) | Incorporar nuevas entidades, avanzar al modelo físico normalizado (3FN) y construir consultas avanzadas | Andrés Gómez | `docs/entrega2/modelo_fisico.md`, `sql/entrega2/08_ddl_ampliado.sql`, `sql/entrega2/09_consultas_avanzadas.sql` |
 | 9 | Roles y pruebas (Entrega 2) | Definir roles diferenciados (Administrador, Analista Deportivo, Auditor) y ejecutar casos de prueba válidos y fallidos | Andrés Gómez | `sql/entrega2/10_roles.sql`, `sql/entrega2/11_pruebas.sql` |
-| 10 | Cierre y sustentación (Entrega 2) | Integrar ramas a `main`, revisar `README.md`/`CHANGELOG.md` y preparar la sustentación en panel público | Andrés Gómez | versión final y pull request |
-
-Las semanas y actividades se deben ajustar a las fechas oficiales publicadas por el curso.
+| 10 | Revisión y sustebtación (Entrega 2) | Integrar ramas a `main`, revisar `README.md`/`CHANGELOG.md` y preparar la sustentación en panel público | Andrés Gómez | versión final y pull request |
