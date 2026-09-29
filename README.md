@@ -10,7 +10,6 @@ Sistema de información para la gestión de una Copa Mundial de la FIFA.
   2 — Consultas avanzadas, perfección del modelo y roles
 - Motor: Oracle Database
 - Cliente: Oracle SQL Developer
-- Esquema: `<SCHEMA_DEL_CURSO>`
 
 ## Alcance de la Entrega 1
 
@@ -31,7 +30,7 @@ en la Entrega 2.
 
 ## Alcance de la Entrega 2
 
-A partir de la evaluación crítica y de la retroalimentación recibida en la sustentación de
+A partir de la evaluación crítica y de la retroalimentación recibida en la sustentación, que no tuvimos de
 la Entrega 1, se expande el modelo incorporando las entidades adicionales pertinentes
 (jugadores, cuerpo técnico, árbitros, estadísticas, grupos, fases eliminatorias, boletería,
 medios, incidencias, entre otras), normalizando hasta Tercera Forma Normal (3FN) y
@@ -67,7 +66,7 @@ Analista Deportivo y Auditor/Consulta.
         └── 11_pruebas.sql
 ```
 
-En este primer avance solo se publican `README.md`, `CHANGELOG.md` y `.gitignore`.
+En este primer avance solo se publican `README.md`, `CHANGELOG.md`.
 Los documentos técnicos y scripts SQL se incorporarán mediante commits posteriores para
 que el progreso quede visible paso a paso.
 
@@ -100,8 +99,6 @@ Usuario:  <SCHEMA_DEL_CURSO>
 
 ## Conexión y seguridad
 
-- No se deben guardar contraseñas, wallets, archivos `.p12`, `.key` ni datos personales
-  reales en este repositorio.
 - `ROL_FIFA_E1_ANDRES_CONSULTA` solo recibe permisos de lectura.
 - `ROL_FIFA_E1_ANDRES_OPERATIVO` recibe permisos de lectura e inserción/actualización sobre las
   tablas transaccionales (`PARTIDO` y `PARTICIPACION_PARTIDO`), sin permisos de borrado.
@@ -137,7 +134,7 @@ Cada semana se debe:
 Cuando se cree el repositorio remoto en GitHub, enlazarlo sin almacenar credenciales:
 
 ```powershell
-git remote add origin https://github.com/<USUARIO_GITHUB>/proyecto-fifa-entrega-1.git
+git remote add origin https://github.com/andrs-gmzz/proyecto-fifa-entrega-1.git
 git branch -M main
 git push -u origin main
 ```
